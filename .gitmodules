@@ -1,0 +1,3 @@
+[submodule "vendor/httpcats"]
+	path = vendor/httpcats
+	url = https://github.com/robur-coop/httpcats
